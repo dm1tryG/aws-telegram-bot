@@ -1,0 +1,20 @@
+{
+  "name": "jija",
+  "version": "1.0.0",
+  "description": "the telegram bot for website information",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "awis": "^1.0.10",
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "keywords": [
+    "awis",
+    "aws",
+    "nodejs"
+  ],
+  "author": "dmitry galkin",
+  "license": "ISC"
+}
